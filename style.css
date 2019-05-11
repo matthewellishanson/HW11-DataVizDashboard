@@ -267,3 +267,8 @@
     margin-top: 12.5px;
     margin-left: 5px;
 }
+
+.nav-item :hover {
+    background-color: #a31e22;
+    color: white;
+}

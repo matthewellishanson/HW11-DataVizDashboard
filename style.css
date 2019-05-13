@@ -676,8 +676,6 @@ font-family: 'Ubuntu Mono', monospace; */
       position: relative;
       margin: 5%;
       padding: 5%;
-      display: table-cell;
-
   }
   
   .teaser-head {

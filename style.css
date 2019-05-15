@@ -668,7 +668,6 @@ font-family: 'Ubuntu Mono', monospace; */
     color: rgb(248, 249, 250);
     text-align: center;
   }
-  
   /* Teaser */
   
   .teaser {
@@ -1319,5 +1318,8 @@ font-family: 'Ubuntu Mono', monospace; */
   
       .intro .intro-body .brand-heading {
           font-size: 75px;
+      }
+      .container {
+          margin: 20px 120px 0 200px;
       }
   }

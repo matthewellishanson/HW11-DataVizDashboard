@@ -664,7 +664,7 @@ font-family: 'Ubuntu Mono', monospace; */
       width: 100%;
   }
 
-  .comparison-box h1 {
+  .comparison-header {
     color: rgb(248, 249, 250);
     text-align: center;
   }

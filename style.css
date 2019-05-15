@@ -655,7 +655,24 @@ font-family: 'Ubuntu Mono', monospace; */
       margin: 0;
   }
   
-  
+  /* Comparison */
+
+  .comparison-box {
+      position: relative;
+      margin: 2% 0 2% 0;
+      padding: 20px;
+      width: 100%;
+  }
+
+  .comparison-box h1 {
+    color: rgb(248, 249, 250);
+    text-align: center;
+  }
+
+
+  .comparison-box img {
+      margin: 20px 0 20px 0;
+  }
   
   /* Teaser */
   

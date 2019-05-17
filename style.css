@@ -79,6 +79,22 @@ font-family: 'Ubuntu Mono', monospace; */
   .fa {
       margin-right: 1px;
   }
+
+  /* table */
+  .table-responsive {
+      padding: 20px;
+      margin: 20px;
+      font-size: 20px;
+      overflow-x: auto;
+      overflow-y: auto;
+      max-height: 800px;
+  }
+
+  @media(max-width: 768px) {
+      .table-responsive {
+          font-size: 12px;
+      }
+  }
   
   /* readiscover */
   
@@ -685,7 +701,6 @@ font-family: 'Ubuntu Mono', monospace; */
       background: rgb(248, 249, 250);
       width: 100%;
       position: relative;
-      margin: 5%;
       padding: 5%;
   }
   
